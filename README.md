@@ -5,7 +5,7 @@
 ---
 ## 🛠️ Tech Stack
 - **SQL:** MySQL · SQLite · Window Functions · CTEs · ETL Pipelines
-- **BI:** Power BI · DAX · Excel (Power Query, Power Pivot)
+- **BI:** Power BI · Excel (Power Query, Power Pivot)
 - **Python:** Pandas · Jupyter Notebooks · Data Cleaning · EDA · AI Agent Development
 - **AI:** Anthropic Claude SDK · Agentic Loops · Tool Use · Multi-modal Vision · LLM-as-judge Testing · RAG
 - **Tools:** DBeaver · GitHub · VS Code
