@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Iván Jarpa Manríquez
 **Senior Data Analyst & AI Developer** | SQL · Power BI · Excel · ETL Pipelines · Python · AI Agents
+
 📍 Chile (Remote) | 12+ years in data analytics
 
 ---
+
 ## 🛠️ Tech Stack
 - **SQL:** MySQL · SQLite · Window Functions · CTEs · ETL Pipelines
 - **BI:** Power BI · Excel (Power Query, Power Pivot)
@@ -11,21 +13,25 @@
 - **Tools:** DBeaver · GitHub · VS Code
 
 ---
+
 ## 🏆 Certifications
 - 🤖 Claude Code in Action | Anthropic | Julio 2026 — [Ver certificado](https://verify.skilljar.com/c/q64c753kdnvx)
 - 🥇 SQL (Advanced) | HackerRank | Mayo 2026 — [Ver certificado](https://www.hackerrank.com/certificates/99787820d637)
 - ✅ SQL (Intermediate) | HackerRank | Marzo 2026
 
 ---
+
 ## 🤖 AI Projects
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [collections-clustering-agent](https://github.com/jarpaivan-wq/collections-clustering-agent) | Claude Sonnet 5 + Haiku 4.5 · scikit-learn · SQLite | AI-assisted clustering workflow that segments a debt-collection portfolio into behavioral profiles. Deterministic ML pipeline (PCA + divisive clustering), thresholds calibrated empirically against ground truth (ARI 0.988), and 3 real bugs found and fixed during development — fully documented in the CHANGELOG. |
 | [FacturExtract](https://github.com/jarpaivan-wq/FacturExtract) | Claude Sonnet + Haiku · Tkinter · openpyxl | AI agent that extracts structured data from photos of Chilean electronic invoices (SII format). Dual-model architecture, line-item granularity, monthly Excel rotation. Validated in production with a real client. |
 | [DataForge](https://github.com/jarpaivan-wq/DataForge) | Claude SDK · Python · Wikipedia API | AI agent that generates realistic synthetic CSV datasets from natural language. Entity-aware schema inference, schema cache (56% token reduction), and LLM-as-judge testing. |
 | [Eve — Conversational Data Explorer](https://github.com/jarpaivan-wq/eve-conversational-data-explorer) | Claude Haiku + Sonnet · SQLite · pandas | Multiagent BI system — ask business questions in natural language, get narrative insights and executive memos. Hub & Spoke architecture with Blackboard pattern. 7 specialized agents, 5-layer guardrails. |
 | [20Xrecovery](https://github.com/jarpaivan-wq/-20Xrecovery) | Azure AI Foundry · GPT-4.1 · RAG | AI compliance agent for Chilean debt collection law. RAG + web search, voice mode, web deployment. 99–100% across 19 automated evaluators. |
 
 ---
+
 ## 📂 Data Projects
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -36,6 +42,7 @@
 | [bioeco-research-etl](https://github.com/jarpaivan-wq/bioeco-research-etl) | MySQL · Pandas · Power BI | ETL pipeline for biological research data |
 
 ---
+
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-biexcel-blue)](https://linkedin.com/in/biexcel)
 [![Email](https://img.shields.io/badge/Email-jarpa.ivan@gmail.com-red)](mailto:jarpa.ivan@gmail.com)
